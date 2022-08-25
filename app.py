@@ -1,4 +1,3 @@
-# /*
 # There is a little one that comes to mind: if the Earth stopped in its orbit around the Sun, it would then
 # accelerate under gravity until it hit the Sun. Using Newton's equation for universal gravitation, you could
 # calculate the Earth's progress as it falls towards the Sun second by second.
@@ -16,8 +15,14 @@
 #
 # The new displacement, s = s-old + delta-s .
 # And similar to work out the new v.
-# */
-#
+
+def main():
+    print("running")
+
+
+if __name__ == '__main__':
+    main()
+
 # fn main() {
 #     const GRAVITATIONAL_CONSTANT: f64 = 0.000000000066743;
 #     const MASS_OF_SUN_KG: f64 = 1988470000000000000000000000000.0;
